@@ -1,0 +1,32 @@
+@media screen and (max-width:428px){
+    .FirstScreen{
+       
+        padding: 25px 25px 0 25px;
+    }
+    .SecondScreen{
+        display: none;
+    }
+    .header{
+        width: 375px;
+    }
+    .logo{
+        width: 15.5px;
+        height: 24px;
+    }
+    .navBar{
+        font-size: 9px;
+        width: 220px;
+        margin: 0 0 0 0px;
+    }
+    .number{
+        font-size: 10px;
+        font-weight: 400;
+    }
+    .mainTitle{
+        margin: 50px 0 0 0;
+        font-size: 15px;
+    }
+    .mainMain{
+        font-size: 56px;
+    }
+}
